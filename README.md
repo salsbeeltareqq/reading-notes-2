@@ -26,5 +26,5 @@ It is a way to style text on the web without using HTML, that if you are focusin
 ### Selected choices
 You can select the first or second choice:
 - [x] This is choice number 1
-- [] This is choice number 2
+- [ ] This is choice number 2
 
