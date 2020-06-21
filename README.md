@@ -2,7 +2,7 @@
 
 ##What is Markdown??
 
-It is a way to style text on the web without using HTML, that if you are focusin in the appherance of the text, you can make the text **bold** or *italic* adding images, and create lists, generaly, Markdown is just regular text with a few ono-alpabetic characters like using the hashing sample and the star sample.
+It is a way to style text on the web without using HTML, that if you are focusin in the appherance of the text, you can make the text **bold** or *italic* adding images, and create lists, generaly, Markdown is just regular text with a few non-alpabetic characters like using the hashing sample and the star sample.
 
 ## Examples
 ###Numbered List:
