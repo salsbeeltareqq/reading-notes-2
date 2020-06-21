@@ -26,7 +26,6 @@
 4. **Third-Party Options:** There is alot of third party Editors that has a lot of nice features *My personal text editor is Visual Studio Code* because it has a lot of nice features.
 
 *Exaples of Text Editors:*
-
     - [NoteBad++](https://notepad-plus-plus.org/downloads/)
     - [TextWrangler/BBEdit](https://www.barebones.com/products/textwrangler/download.html)
     - [Visual Studio Code](https://code.visualstudio.com/)
