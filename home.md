@@ -4,4 +4,4 @@ This is a home page of this entire project, just a test for linking tow pages us
 
 **To return to the main Page Click the link below:**
 
-[Main Page](https://sayefdeen.github.io/reading-notes/README)
+[Main Page](https://sayefdeen.github.io/reading-notes/)
