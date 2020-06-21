@@ -25,10 +25,10 @@
     
 4. **Third-Party Options:** There is alot of third party Editors that has a lot of nice features *My personal text editor is Visual Studio Code* because it has a lot of nice features.
 
-*Exaples of Text Editors:*
-    - [NoteBad++](https://notepad-plus-plus.org/downloads/)
-    - [TextWrangler/BBEdit](https://www.barebones.com/products/textwrangler/download.html)
-    - [Visual Studio Code](https://code.visualstudio.com/)
-    - [SublimeText](https://www.sublimetext.com/)
+*Examples of Text Editors:*
+    -[NoteBad++](https://notepad-plus-plus.org/downloads/)
+    -[TextWrangler/BBEdit](https://www.barebones.com/products/textwrangler/download.html)
+    -[Visual Studio Code](https://code.visualstudio.com/)
+    -[SublimeText](https://www.sublimetext.com/)
     
 5. **The Difference Between Text Editors and IDEs:** we disscussed the defenition of Text Editors, An IDE is a text editor, a file manager, a compiler,and a debugger all in one software package, you can think of it as Microsoft Outlook.
