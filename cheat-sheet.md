@@ -20,6 +20,5 @@
 | touch    | Allow you to add a new file with a specific extension |
 | cd..    | return to the previous file |
 | cd -folder name-    | go to this a specific folder |
-| cd -folder name-    | go to this a specific folder |
  
 
