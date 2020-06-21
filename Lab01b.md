@@ -1,5 +1,7 @@
 # **Grouth mindset**
 
+[ReadMe](https://sayefdeen.github.io/reading-notes/)
+
 1. ### What is a growth mindset?
 
 1.1 **Definision:** A concept that focusing on the fact of intelligence and talent are just a simple starting points, which you can overcome these gifts by constant furthure develompnet or efforts, you can't only depends on these gifts to accomplish any of your goals or dreams.
