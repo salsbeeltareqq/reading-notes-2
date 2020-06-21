@@ -5,3 +5,5 @@
 : this is a test 4
 - this is a test 5
 * this is a test 6
+[Learn More](http://wikipedia.com)
+[learn more] [http://wikipedia.com] 
