@@ -13,9 +13,9 @@ It is a way to style text on the web without using HTML, that if you are focusin
 
 ### Dashed List:
 
-- First Item
-- Second Item
-- Third Item
+- First item
+- Second item
+- Third item
 
 ### Adding Images:
 ![image of a cat](https://media.wired.com/photos/5e1e646743940d0008009167/master/w_2560%2Cc_limit/Science_Cats-84873657.jpg)
