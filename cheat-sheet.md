@@ -16,4 +16,10 @@
 | ls     | List Of The Files in the directory |
 | ls -a  | List Of The Files in the director even the *hiiden* files |
 | pwd    | Gives You the directory that you are working on at the moment |
-| mkdir <folder Name>  | Allow you to add a new folder |
+| mkdir -folder Name-  | Allow you to add a new folder |
+| touch    | Allow you to add a new file with a specific extension |
+| cd..    | return to the previous file |
+| cd -folder name-    | go to this a specific folder |
+| cd -folder name-    | go to this a specific folder |
+ 
+
