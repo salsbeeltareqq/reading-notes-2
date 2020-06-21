@@ -19,4 +19,4 @@ It is a way to style text on the web without using HTML, that if you are focusin
 
 ### Adding Images:
 
-![image of a cat] (https://media.wired.com/photos/5e1e646743940d0008009167/master/w_2560%2Cc_limit/Science_Cats-84873657.jpg)
+![image of a cat](https://media.wired.com/photos/5e1e646743940d0008009167/master/w_2560%2Cc_limit/Science_Cats-84873657.jpg)
