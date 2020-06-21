@@ -6,4 +6,4 @@ This term focusing on the fact that intelligence and talent are just a simple st
 
 Here is a simple illustration highlighting the differences between a fixed and a growth mindset:
 
-[! illustration highlighting](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
+![illustration highlighting](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
