@@ -11,4 +11,6 @@
     - Nice variety of theams : to reduce eye strian if fatigue **For Me Is the Dark Theme**.
     - The ability to chose a widly selection of extension that could help you in your journy.
 ![Example of Highlighting Text](https://codehighlight.com/img/javascript-with-syntax-highlighting.png)
-*An Example Of highlighted Code in text editor *
+
+
+*An Example Of highlighted Code in text editor*
