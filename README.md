@@ -24,7 +24,7 @@ It is a way to style text on the web without using HTML, that if you are focusin
 [Google](https://www.google.com/)
 
 ### Selected choices
-You can select the Kind of topping in your piza:
+You can select the Kind of topping in your pizza:
 - [x] Chees
 - [ ] Peporni
 - [ ] Pinaple 
