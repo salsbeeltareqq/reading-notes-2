@@ -25,3 +25,5 @@ Form the figure above we can get that the difference between the fixed mind and 
 1.3 **Growing at work, and outside work too:** in the last aspect you have to keep growing, studying to maintain a good level of knowledge on your major, so you could not be replaced by your employee, but always remeber that to have an outside life despite your work.
 
 ### Best Wishes
+
+[Sayefdeen](https://sayefdeen.github.io/reading-notes/Aboutme)
