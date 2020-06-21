@@ -22,3 +22,9 @@ It is a way to style text on the web without using HTML, that if you are focusin
 
 ### Adding Links:
 [Google](https://www.google.com/)
+
+### Selected choices
+You can select the first or second choice:
+- [x] This is choice number 1
+- [] This is choice number 2
+
