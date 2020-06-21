@@ -2,7 +2,7 @@
 
 ## What is Markdown??
 
-It is a way to style text on the web without using HTML, that if you are focusin in the appherance of the text, you can make the text **bold** or *italic* adding images, and create lists, generaly, Markdown is just regular text with a few non-alpabetic characters like using double * to get bold text and using single * to get the Italic text, and (1-4) #  symbols to get the (h1-h4) result like the html tags 
+It is a way to style text on the web without using HTML, that if you are focusin in the appherance of the text, you can make the text **bold** or *italic* and ~~Strikethrough~~, and  adding images, and create lists, generaly, Markdown is just regular text with a few non-alpabetic characters like using double * to get bold text and using single * to get the Italic text, and (1-4) #  symbols to get the (h1-h4) result like the html tags 
 
 ## Examples
 ### Numbered List:
@@ -28,4 +28,12 @@ You can select the Kind of topping in your piza:
 - [x] Chees
 - [ ] Peporni
 - [ ] Pinaple 
+
+### Horizontal Rules
+
+___
+
+---
+
+***
 
