@@ -19,4 +19,5 @@ I am a civil engineer who is trying to become a software developer, if you are a
 | Lab01b      | [Lab01b](https://sayefdeen.github.io/reading-notes/Lab01b)    |
 | Read02      | [Read02](https://sayefdeen.github.io/reading-notes/Read02)    |
 | Read03      | [Read03](https://sayefdeen.github.io/reading-notes/Read03)    |
+| Read04      | [Read04](https://sayefdeen.github.io/reading-notes/Read04)    |
 
