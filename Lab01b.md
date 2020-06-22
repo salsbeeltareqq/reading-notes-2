@@ -1,6 +1,7 @@
+[Home](https://sayefdeen.github.io/reading-notes/home)
+
 # **Grouth mindset**
 
-[ReadMe](https://sayefdeen.github.io/reading-notes/)
 
 1. ### What is a growth mindset?
 

@@ -1,6 +1,7 @@
+[Home](https://sayefdeen.github.io/reading-notes/home)
+
 # Reading-Notes
 
-[Lab01b](https://sayefdeen.github.io/reading-notes/Lab01b)
 
 ## What is Markdown??
 
@@ -24,6 +25,8 @@ It is a way to style text on the web without using HTML, that if you are focusin
 
 ### Adding Links:
 [Google](https://www.google.com/)
+
+
 [Home Page](https://sayefdeen.github.io/reading-notes/home)
 
 ### Selected choices

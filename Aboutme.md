@@ -1,8 +1,6 @@
 # Information About Me
 
-[Lab01b](https://sayefdeen.github.io/reading-notes/Lab01b)
-
-[Protifolio](https://github.com/sayefdeen)
+[Home](https://sayefdeen.github.io/reading-notes/home)
 
 | Tags        | Information |
 | ----------- | ----------- |

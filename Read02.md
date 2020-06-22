@@ -1,3 +1,5 @@
+[Home](https://sayefdeen.github.io/reading-notes/home)
+
 # Chosing A Text Editor 
 
 1. **How To Choose a Text Editor** chosing a text editor really dependce on the user it self, like you choose your Favorite team in football, every fan of each team can give a list of preferred qualifications for his team. So in the end it really depende in the person and his realxation using this type of text editor.
