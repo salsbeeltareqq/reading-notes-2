@@ -14,7 +14,7 @@ I am a civil engineer who is trying to become a software developer, if you are a
 | Home        | [Home](https://sayefdeen.github.io/reading-notes/home)|
 | About me    | [About Me](https://sayefdeen.github.io/reading-notes/Aboutme)|
 | ReadMe      | [Read Me](https://sayefdeen.github.io/reading-notes/)        |
-| Cheat sheet | [Cheat](https://sayefdeen.github.io/reading-notes/cheat-sheets) |
+| Cheat sheet | [Cheat](https://sayefdeen.github.io/reading-notes/cheat-sheet) |
 | Class01     | [class01](https://sayefdeen.github.io/reading-notes/class01)    |
 | Lab01b      | [Lab01b](https://sayefdeen.github.io/reading-notes/Lab01b)    |
 | Read02      | [Read02](https://sayefdeen.github.io/reading-notes/Read02)    |
