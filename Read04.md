@@ -110,8 +110,70 @@ for a long time HTML developers was using `<div>` with a specific id for each us
 
 # 3. Ch 8 HTML5 Layout.
 
+Since the web was first created, there have
+been several different versions of HTML. Each new version was designed to be an improvement on the
+last (with new elements and attributes added and older code removed).
+
+There have also been several versions of each browser used to view web pages, each of which
+implements new code. Not all web users, however, have the latest browsers installed on their computers, which means that not everyone will be able to view all of the latest features and markup.
+
+* HTML 4 Released 1997
+* XHTML 1.0 Released 2000
+*  **XHTML5 Released 2000**
+
+*HTML5 is the version we use write now*
+
+* DOCTYPES : because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using (although
+browsers usually display the page even if it is not included).
+
+* Comments : If you want to add a comment
+to your code that will not be visible in the user's browser, you can add the text between these
+characters: `<!-- comment goes here -->` 
+
+* ID attribute : Every HTML element can carry
+the id attribute. It is used to uniquely identify that element from other elements on the
+page. Its value should start with a letter or an underscore (not a number or any other character).
+It is important that no two elements on the same page have the same value for their id attributes (otherwise the value is no longer unique).
+
+* Class attribute : Every HTML element can
+also carry a class attribute. Sometimes, rather than uniquely identifying one element within
+a document, you will want a way to identify several elements as being different from the
+other elements on the page. For example, you might have some paragraphs of text that
+contain information that is more important than others and want to distinguish these elements, or
+you might want to differentiate between links that point to other pages on your own site and links that point to external sites.
+
+* Block Elements : Some elements will always
+appear to start on a new line in the browser window. These are known as **block level** elements.
+    * `<h1-h6>`
+    * `<p>`
+    * `<ul>`
+    * `<li>`
+* Inline Elements : html Some elements will always
+appear to continue on the same line as their neighbouring elements. These are known as
+inline elements.
+    * `<a>`
+    * `<b>`
+    * `<em>`
+    * `<img>`
+
+* Grouping Text & Elements In a Block :
+ `<div>` element allows you to
+group a set of elements together
+in one block-level box, In a browser, the contents of the `<div>` element will start on
+a new line, but other than this
+it will make no difference to the
+presentation of the page.
+
+* Grouping Te xt & Elements Inline : `<span>`  element acts like an inline equivalent of the `<div>` element. It is used to either:
+    * Contain a section of text
+where there is no other suitable
+element to differentiate it from
+its surrounding text.
+
+    * Contain a number of inline
+elements
 
 
-
+*Follow this [Link](https://www.w3schools.com/html/html_entities.asp) to see more Info about Escape Characters in HTML5*
 
 
