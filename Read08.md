@@ -32,12 +32,12 @@ In any condition, there is usually one **operator** and two **operands**, The op
 
 | Condition 1 | Logical Operator | Condition 2 | Result |
 | ----------- | ---------------- | ----------- | ------ |
-| True        | &&               | True        | True   |
-| True        | &&               | False       | False  |
-| False       | &&               | False       | False  |
-| True        |                  |             |        | True | True |
-| True        |                  |             |        | False | True |
-| False       |                  |             |        | False | False |
+| True        | `&&`             | True        | True   |
+| True        | `&&`             | False       | False  |
+| False       | `&&`             | False       | False  |
+| True        | `||`             | True        | True   |
+| True        | `||`             | False       | True   |
+| False       | `||`             | False       | False  |
 
 ## 2. Loops
 
