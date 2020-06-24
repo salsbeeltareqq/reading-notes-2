@@ -22,3 +22,4 @@ _This is a home page of this project, it has a table of contents for the entire 
 | Read05      | [Read05](https://sayefdeen.github.io/reading-notes/Read05)     |
 | Read06      | [Read06](https://sayefdeen.github.io/reading-notes/Read06)     |
 | Read07      | [Read07](https://sayefdeen.github.io/reading-notes/Read07)     |
+| Read08      | [Read08](https://sayefdeen.github.io/reading-notes/Read08)     |
